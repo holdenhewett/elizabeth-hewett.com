@@ -1,0 +1,61 @@
+baseURL = "http://elizabeth-hewett.com/"
+languageCode = "en-us"
+title = "Elizabeth Hewett"
+theme = "personal-web"
+copyright="© Elizabeth Hewett"
+
+[params.intro]
+  main = "Hi, I'm Elizabeth"
+  sub = "CAD Designer and Drafter"
+
+[params]
+  breadcrumb = true
+  accentColor = "#FD3519"
+  mainSections = ['portfolio']
+
+[params.sidebar]
+  backgroundImage = '/images/sidebar.jpg'
+   logo = '/images/elizabeth-hewett.jpg'
+
+[params.notFound]
+  wrench = "/images/wrench.png"
+  h1 = 'Ooops!'
+  p = "It seems that this page doesn't exist."
+
+[params.sections]
+  resume = "resume"
+  portfolio = "project"
+
+[params.assets]
+  favicon = "/images/favicon.png"
+  customCSS = ""
+
+[params.social]
+    linkedin = "https://www.linkedin.com/in/elizabeth-hewett-078b0692/"
+
+[params.contact]
+  email = "eliz.hewett@gmail.com"
+  text = "Email me"
+
+[menu]
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  title = "About section"
+  url = "/about/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "portfolio"
+  name = "Portfolio"
+  title = "Portfolio"
+  url = "/portfolio/"
+  weight = -110
+
+[[menu.main]]
+  identifier = "resume"
+  name = "Resume"
+  title = "Resume"
+  url = "/resume/"
+  weight = -100
