@@ -5,7 +5,7 @@
 
   <div class="post-list">
     {{ range .Pages.ByPublishDate.Reverse }}
-      {{ partial "resume/item" .}}
+      {{ partial "post/item" .}}
     {{ end }}
   </div>
 

@@ -3,19 +3,26 @@ languageCode = "en-us"
 title = "Elizabeth Hewett"
 theme = "personal-web"
 copyright="© Elizabeth Hewett"
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
 
 [params.intro]
   main = "Hi, I'm Elizabeth"
   sub = "CAD Designer and Drafter"
 
+[params.main]
+  latestPublishHeader = "My Latest Project"
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
 [params]
   breadcrumb = true
   accentColor = "#FD3519"
   mainSections = ['portfolio']
-
-[params.sidebar]
-  backgroundImage = '/images/sidebar.jpg'
-   logo = '/images/elizabeth-hewett.jpg'
 
 [params.notFound]
   wrench = "/images/wrench.png"
@@ -25,6 +32,10 @@ copyright="© Elizabeth Hewett"
 [params.sections]
   resume = "resume"
   portfolio = "project"
+
+[params.sidebar]
+  backgroundImage = '/images/sidebar.jpg'
+   logo = '/images/elizabeth-hewett.jpg'
 
 [params.assets]
   favicon = "/images/favicon.png"
@@ -59,3 +70,25 @@ copyright="© Elizabeth Hewett"
   title = "Resume"
   url = "/resume/"
   weight = -100
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
