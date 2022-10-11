@@ -1,4 +1,4 @@
-baseURL = "http://www.elizabeth-hewett.com/"
+baseURL = "http://elizabeth-hewett.netlify.app/"
 languageCode = "en-us"
 title = "Elizabeth Hewett"
 theme = "personal-web"
