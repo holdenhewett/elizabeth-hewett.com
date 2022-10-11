@@ -30,7 +30,7 @@ pygmentsCodeFences=true
   p = "It seems that this page doesn't exist."
 
 [params.sections]
-  resume = "resume"
+  post = "post"
   portfolio = "project"
 
 [params.sidebar]
@@ -68,7 +68,7 @@ pygmentsCodeFences=true
   identifier = "resume"
   name = "Resume"
   title = "Resume"
-  url = "/resume/"
+  url = "/post/"
   weight = -100
 
 [sitemap]
