@@ -65,7 +65,7 @@ pygmentsCodeFences=true
   weight = -110
 
 [[menu.main]]
-  identifier = "resume"
+  identifier = "post"
   name = "Resume"
   title = "Resume"
   url = "/post/"
