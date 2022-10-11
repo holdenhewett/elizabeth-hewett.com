@@ -66,8 +66,8 @@ pygmentsCodeFences=true
 
 [[menu.main]]
   identifier = "post"
-  name = "Post"
-  title = "Post"
+  name = "Resume"
+  title = "Resume section"
   url = "/post/"
   weight = -100
 
