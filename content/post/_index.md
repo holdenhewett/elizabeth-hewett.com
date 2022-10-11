@@ -1,5 +1,5 @@
 ---
-title: POST
+title: RESUME
 description: 'Resume Section'
 ---
  
