@@ -30,7 +30,7 @@ pygmentsCodeFences=true
   p = "It seems that this page doesn't exist."
 
 [params.sections]
-  post = "post"
+  post = "article"
   portfolio = "project"
 
 [params.sidebar]
@@ -66,8 +66,8 @@ pygmentsCodeFences=true
 
 [[menu.main]]
   identifier = "post"
-  name = "Resume"
-  title = "Resume"
+  name = "Post"
+  title = "Post"
   url = "/post/"
   weight = -100
 
