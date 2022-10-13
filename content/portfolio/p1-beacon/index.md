@@ -1,5 +1,5 @@
 ---
-title: Beacon
+title: Personal Locator Beacon
 description: This is the description of our sample project
 date: "2022-08-20"
 jobDate: 2022
