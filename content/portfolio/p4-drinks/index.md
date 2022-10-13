@@ -7,4 +7,4 @@ work: [Inventor, design]
 thumbnail: p4-drinks/drinks-cover.png
 ---
 
-![drinks image 2](drinks2.png)
+[![drinks image 2](drinks2.png)](drinks2.png)

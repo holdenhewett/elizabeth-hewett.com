@@ -3,8 +3,7 @@ title: Beacon
 description: This is the description of our sample project
 date: "2022-08-20"
 jobDate: 2022
-work: [SolidWorks, design]
-tachs: [SolidWorks]
+work: [SOLIDWORKS, design]
 thumbnail: p1-beacon/beacon-cover.jpg
 ---
 
