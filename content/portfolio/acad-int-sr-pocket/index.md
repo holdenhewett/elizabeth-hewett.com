@@ -7,4 +7,5 @@ work: [AutoCAD, design]
 thumbnail: acad-int-sr-pocket/int-sr-pocket-cover.png
 ---
 
-You can also view and download the [drawings](Int-SR-Pocket.pdf "drawings").
+To see more pages and details, or to download this project see the [drawings](Int-SR-Pocket.pdf
+"drawings").

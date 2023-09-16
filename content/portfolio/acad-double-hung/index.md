@@ -7,4 +7,5 @@ work: [AutoCAD, design]
 thumbnail: acad-double-hung/double-hung-cover.png
 ---
 
-You can also view and download the [drawings](Double-Hung.pdf "drawings").
+To see more pages and details, or to download this project see the [drawings](Double-Hung.pdf
+"drawings").

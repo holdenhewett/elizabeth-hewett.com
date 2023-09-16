@@ -7,4 +7,5 @@ work: [AutoCAD, design]
 thumbnail: acad-awning-fr-csmt-window/awning-cover.png
 ---
 
-You can also view and download the [drawings](Awning-FR-Csmt-Window.pdf "drawings").
+To see more pages and details, or to download this project see the
+[drawings](Awning-FR-Csmt-Window.pdf "drawings").

@@ -7,4 +7,5 @@ work: [AutoCAD, design]
 thumbnail: acad-int-swing-door/int-swing-door-cover.png
 ---
 
-You can also view and download the [drawings](Int-Swing-Door.pdf "drawings").
+To see more pages and details, or to download this project see the [drawings](Int-Swing-Door.pdf
+"drawings").

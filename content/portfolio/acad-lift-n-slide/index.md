@@ -7,4 +7,5 @@ work: [AutoCAD, design]
 thumbnail: acad-lift-n-slide/lift-n-slide-cover.png
 ---
 
-You can also view and download the [drawings](Lift-N-Slide.pdf "drawings").
+To see more pages and details, or to download this project see the [drawings](Lift-N-Slide.pdf
+"drawings").

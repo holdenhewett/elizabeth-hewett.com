@@ -7,4 +7,5 @@ work: [AutoCAD, design]
 thumbnail: acad-csmt-fx/csmt-fx-cover.png
 ---
 
-You can also view and download the [drawings](Csmt-FX-Csmt.pdf "drawings").
+To see more pages and details, or to download this project see the [drawings](Csmt-FX-Csmt.pdf
+"drawings").

@@ -7,4 +7,5 @@ work: [AutoCAD, design]
 thumbnail: acad-ext-pair-sidelights/ext-pair-cover.png
 ---
 
-You can also view and download the [drawings](Ext-pair-w-sidelights.pdf "drawings").
+To see more pages and details, or to download this project see the
+[drawings](Ext-pair-w-sidelights.pdf "drawings").

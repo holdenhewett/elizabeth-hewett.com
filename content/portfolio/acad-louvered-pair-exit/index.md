@@ -7,4 +7,5 @@ work: [AutoCAD, design]
 thumbnail: acad-louvered-pair-exit/louvered-pair-cover.png
 ---
 
-You can also view and download the [drawings](Louvered-Pair-Ext.pdf "drawings").
+To see more pages and details, or to download this project see the [drawings](Louvered-Pair-Ext.pdf
+"drawings").
