@@ -5,4 +5,4 @@ project_type: solidworks
 thumbnail: "p1-beacon/beacon-cover.jpg"
 ---
 
-Your SolidWorks type content here.
+My SolidWorks projects.

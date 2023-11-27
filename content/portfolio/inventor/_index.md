@@ -1,8 +1,8 @@
 ---
 title: "INVENTOR"
 description: 'Inventor Section'
-project-type: inventor
+project_type: inventor
 thumbnail: "p5-cups/cups-cover.png"
 ---
 
-Your Inventor type content here.
+My Inventor projects.
