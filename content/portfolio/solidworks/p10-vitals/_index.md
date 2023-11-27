@@ -4,7 +4,7 @@ description: Vital Signs Monitor design
 date: "2022-08-02"
 jobDate: 2022
 work: [SOLIDWORKS, design]
-thumbnail: p10-vitals/vitals-cover.jpg
+thumbnail: solidworks/p10-vitals/vitals-cover.jpg
 ---
 
 [![Vital signs monitor assembly complete](vitals-cover.jpg)](vitals-cover.jpg)

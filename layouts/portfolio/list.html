@@ -3,10 +3,10 @@
   <h1 id="title"> {{ .Title }}</h1>
   {{ .Content }}
 
-  {{ range .Sections }}
+  {{ range .Pages }}
 
-    {{ partial "portfolio/item" .}}
-    
+    {{ partial "portfolio/project-type" .}}
+
   {{ end }}
 
 {{ partial "footer" .}}

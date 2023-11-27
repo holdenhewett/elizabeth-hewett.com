@@ -4,7 +4,7 @@ description: This is the description of our sample project
 date: "2023-05-01"
 jobDate: 2023
 work: [AutoCAD, design]
-thumbnail: acad-lift-n-slide/lift-n-slide-cover.png
+thumbnail: /autocad/acad-lift-n-slide/lift-n-slide-cover.png
 ---
 
 [![Lift-N-Slide Door](lift-n-slide-cover.png)](lift-n-slide-cover.png)

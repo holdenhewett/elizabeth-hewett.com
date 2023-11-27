@@ -4,7 +4,7 @@ description: This is the description of our sample project
 date: "2022-08-20"
 jobDate: 2022
 work: [SOLIDWORKS, design]
-thumbnail: p1-beacon/beacon-cover.jpg
+thumbnail: solidworks/p1-beacon/beacon-cover.jpg
 ---
 
 This personal locator beacon shell is designed to be injection molded.

@@ -4,7 +4,7 @@ description: This is the description of our sample project
 date: "2023-05-01"
 jobDate: 2023
 work: [AutoCAD, design]
-thumbnail: acad-csmt-fx/csmt-fx-cover.png
+thumbnail: /autocad/acad-csmt-fx/csmt-fx-cover.png
 ---
 
 [![Casement Fixed Casement Window](csmt-fx-cover.png)](csmt-fx-cover.png)

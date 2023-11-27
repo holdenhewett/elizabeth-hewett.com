@@ -4,7 +4,7 @@ description: This is the description of our sample project
 date: "2023-05-01"
 jobDate: 2023
 work: [AutoCAD, design]
-thumbnail: acad-double-hung/double-hung-cover.png
+thumbnail: /autocad/acad-double-hung/double-hung-cover.png
 ---
 
 [![Double Hung Window](double-hung-cover.png)](double-hung-cover.png)

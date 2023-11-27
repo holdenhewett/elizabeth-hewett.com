@@ -4,7 +4,7 @@ description: Analysis
 date: "2022-07-02"
 jobDate: 2022
 work: [Fusion 360, design]
-thumbnail: p12-displace/displace-cover.jpg
+thumbnail: fusion360/p12-displace/displace-cover.jpg
 ---
 
 [![displacement analysis](displace-cover.jpg)](displace-cover.jpg)
