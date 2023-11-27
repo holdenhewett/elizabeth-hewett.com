@@ -1,0 +1,13 @@
+{{ partial "header" .}}
+
+  <h1 id="title"> {{ .Title }}</h1>
+  {{ .Content }}
+
+  {{ range .Sections }}
+
+    <!-- <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2> -->
+    {{ partial "portfolio/project-type" .}}
+    
+  {{ end }}
+
+{{ partial "footer" .}}

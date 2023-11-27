@@ -5,19 +5,9 @@
   {{ partial "portfolio/tags" .}}
 </div>
 
-<a href="../{{ .Params.Thumbnail }}">
-  <img title="{{.Title}}" alt="{{.Title}}" src="/portfolio/{{ .Params.Thumbnail }}" />
-</a>
+<img title="{{.Title}}" alt="{{.Title}}" src="/portfolio/{{ .Params.Thumbnail }}" />
 
 {{ .Content }}
 
-{{ if .Params.testimonial }}
-  <h3>Testimonial</h3>
-  <div class="testimonial-list">
-    {{ with .Params.testimonial }}
-        {{ partial "portfolio/testimonial" . }}
-    {{ end }}
-  </div>
-{{ end }}
 
 {{ partial "footer" .}}
