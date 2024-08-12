@@ -30,8 +30,12 @@ Shortly after relocating to Bellingham, I started working at Northstar Woodworks
 custom doors and windows for high profile clients. I had the opportunity to work with architects and
 builders in many parts of the US to create technical drawings in AutoCAD for manufacturing.
 
-As I move onto the next step of my career, I am looking to use my knowledge, previous experience,
-and skills in 3D CAD to create comprehensive designs of high-performance residential buildings. I
-hope to share my enthusiasm, dive into my passion, and, most importantly, learn from the amazing
-community of builders and designers in the Bellingham area. Sustainability should be the standard,
-and I want to help make that a reality for this beautiful place that we live.
+Currently I am working with individuals to design and build their own tiny homes on wheels. I
+consult on design and provide build assistance. My goal is to empower those who would like to build
+their own home. I offer insight and knowledge to tackle the uniqueness of building for mobilization
+and space efficiency. I also provide knowledge on tools, products, technique, unique design
+considerations, safety and performance.
+
+Moving forward, I am seeking opportunities to expand my CAD skills and broaden my diversity of
+knowledge. I hope to share my enthusiasm, dive into my passion, and, most importantly, learn from
+the amazing community in the Bellingham area.
